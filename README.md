@@ -3,9 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henriquesa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luhenrique.sa/)
 
-
-![LuLu GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHenrique98&show_icons=true&theme=dracula)
-
 ### Habilidades com as Tecnologias
 
 <div style="display: inline_block> <br/>
